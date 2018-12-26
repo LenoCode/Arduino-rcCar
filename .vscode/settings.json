@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.env.osx": {
+        "PATH": "/Users/fcacic/.platformio/penv/bin:/Users/fcacic/.platformio/penv:/Library/Frameworks/Python.framework/Versions/3.6/bin:/Users/fcacic/.sdkman/candidates/java/current/bin:/Users/fcacic/.sdkman/candidates/gradle/current/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Postgres.app/Contents/Versions/latest/bin:/Users/fcacic/Library/Android/sdk/tools:/Users/fcacic/Library/Android/sdk/platform-tools",
+        "PLATFORMIO_CALLER": "vscode"
+    }
+}
